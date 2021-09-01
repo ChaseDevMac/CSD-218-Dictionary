@@ -1,0 +1,15 @@
+.sign_img_rect {
+    height: 200px;
+    width: 400px;
+}
+
+.sign_img_sqr {
+    height: 200px;
+    width: 200px;
+    padding-right: 200px;
+}
+
+.sign_vid {
+    height: 315px;
+    width: 560px;
+}
